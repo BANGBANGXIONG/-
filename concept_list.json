@@ -1,0 +1,8 @@
+[
+    {
+        "instance_prompt":      "photo of xiaozhan man",
+        "class_prompt":         "photo of a man",
+        "instance_data_dir":    "/content/drive/MyDrive/man",
+        "class_data_dir":       "/content/drive/MyDrive/xiaozhan"
+    }
+]

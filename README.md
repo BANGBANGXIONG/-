@@ -39,6 +39,6 @@
 
 ## 注意
 
-- 代码基于https://github.com/ShivamShrirao/diffusers/blob/main/examples/dreambooth/train_inpainting_dreambooth.py和https://github.com/huggingface/diffusers/blob/main/examples/dreambooth/train_dreambooth.py  进行修改
+- 代码基于https://github.com/huggingface/diffusers/blob/main/examples/dreambooth/train_dreambooth.py  进行修改
 - 本项目的运行环境为 Google Colab，如果您在其他环境中运行，可能需要调整代码以适应不同的环境配置。
 
